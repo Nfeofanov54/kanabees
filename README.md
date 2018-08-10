@@ -1,1 +1,1 @@
-# kanabees
+# kanabis
